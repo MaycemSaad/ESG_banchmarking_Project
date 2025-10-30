@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-28T06:54:19.635479",
+    "target_years": "2018-2025",
+    "sources": [
+      "worldbank",
+      "ins_api",
+      "ins_scraped"
+    ],
+    "indicators_count": 5
+  },
+  "data": {
+    "Inflation (%)": [
+      {
+        "year": 2024,
+        "value": 7.20661657168794,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2023,
+        "value": 9.32899597507865,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2022,
+        "value": 8.30646124447623,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2021,
+        "value": 5.706350208307,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2020,
+        "value": 5.63415115897625,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2019,
+        "value": 6.72007532863799,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      },
+      {
+        "year": 2018,
+        "value": 7.30759176031652,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Inflation, consumer prices (annual %)"
+      }
+    ],
+    "PIB (constant USD)": [
+      {
+        "year": 2024,
+        "value": 48948478709.7934,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2023,
+        "value": 48296165328.5233,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2022,
+        "value": 48277261609.9968,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2021,
+        "value": 47020260421.799,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2020,
+        "value": 44893939452.6941,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2019,
+        "value": 49340470115.969,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      },
+      {
+        "year": 2018,
+        "value": 48569264671.6842,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "GDP in constant USD"
+      }
+    ],
+    "RNB (USD courants)": [
+      {
+        "year": 2024,
+        "value": 52072149801.2873,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2023,
+        "value": 46989038258.4066,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2022,
+        "value": 43975286763.7582,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2021,
+        "value": 45843160788.8016,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2020,
+        "value": 41095052621.3235,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2019,
+        "value": 40813336000.5153,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      },
+      {
+        "year": 2018,
+        "value": 41650260477.7648,
+        "unit": "USD",
+        "source": "worldbank",
+        "description": "Gross National Income in current USD"
+      }
+    ],
+    "Population totale": [
+      {
+        "year": 2024,
+        "value": 12277109.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2023,
+        "value": 12200431.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2022,
+        "value": 12119334.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2021,
+        "value": 12048622.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2020,
+        "value": 11974057.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2019,
+        "value": 11875081.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      },
+      {
+        "year": 2018,
+        "value": 11765514.0,
+        "unit": "habitants",
+        "source": "worldbank",
+        "description": "Total population"
+      }
+    ],
+    "Taux d'épargne brute": [
+      {
+        "year": 2023,
+        "value": 5.06353347070881,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      },
+      {
+        "year": 2022,
+        "value": 6.89607360346531,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      },
+      {
+        "year": 2021,
+        "value": 9.03780859416581,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      },
+      {
+        "year": 2020,
+        "value": 5.61970461283141,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      },
+      {
+        "year": 2019,
+        "value": 10.2514531426079,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      },
+      {
+        "year": 2018,
+        "value": 10.6815524034313,
+        "unit": "%",
+        "source": "worldbank",
+        "description": "Gross savings (% of GNI)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,842 @@
+.company-analysis-container {
+  padding: 0;
+  min-height: 100vh;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light {
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+.company-analysis-container.dark {
+  background: #0f172a;
+  color: #f1f5f9;
+}
+
+/* Header */
+.company-header {
+  background: inherit;
+  padding: 2rem;
+  border-bottom: 1px solid;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .company-header {
+  border-bottom-color: #e2e8f0;
+  background: white;
+}
+
+.company-analysis-container.dark .company-header {
+  border-bottom-color: #334155;
+  background: #1e293b;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+.header-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.header-title h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.header-title p {
+  margin: 0;
+  opacity: 0.7;
+  font-size: 1rem;
+}
+
+.header-icon {
+  color: #6366f1;
+  flex-shrink: 0;
+  margin-top: 0.25rem;
+}
+
+.header-controls {
+  display: flex;
+  gap: 1rem;
+}
+
+.refresh-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #6366f1;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.refresh-btn:hover:not(:disabled) {
+  background: #4f46e5;
+  transform: translateY(-1px);
+}
+
+.refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.refresh-btn.refreshing {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Controls Row */
+.controls-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.control-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.confidence-value {
+  color: #6366f1;
+  font-weight: 700;
+}
+
+.company-select {
+  padding: 0.75rem 1rem;
+  border: 1px solid;
+  border-radius: 8px;
+  font-size: 1rem;
+  background: inherit;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .company-select {
+  border-color: #d1d5db;
+  background: white;
+}
+
+.company-analysis-container.dark .company-select {
+  border-color: #475569;
+  background: #1e293b;
+  color: #f1f5f9;
+}
+
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.confidence-slider {
+  width: 100%;
+  height: 6px;
+  border-radius: 3px;
+  background: #e5e7eb;
+  outline: none;
+  -webkit-appearance: none;
+}
+
+.confidence-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #6366f1;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.confidence-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #6366f1;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.slider-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+/* Tab Navigation */
+.tab-navigation {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .tab-navigation {
+  border-bottom-color: #e2e8f0;
+}
+
+.company-analysis-container.dark .tab-navigation {
+  border-bottom-color: #334155;
+}
+
+.tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  color: inherit;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  opacity: 0.7;
+}
+
+.tab-btn:hover {
+  opacity: 1;
+}
+
+.tab-btn.active {
+  opacity: 1;
+  border-bottom-color: #6366f1;
+  color: #6366f1;
+}
+
+/* Content Area */
+.content-area {
+  padding: 0 2rem 2rem;
+}
+
+/* Metrics Grid */
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.metric-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .metric-card {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .metric-card {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.metric-card.primary {
+  border-left: 4px solid #6366f1;
+}
+
+.metric-card.success {
+  border-left: 4px solid #10b981;
+}
+
+.metric-card.warning {
+  border-left: 4px solid #f59e0b;
+}
+
+.metric-card.info {
+  border-left: 4px solid #3b82f6;
+}
+
+.metric-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.metric-card.primary .metric-icon {
+  background: rgba(99, 102, 241, 0.1);
+  color: #6366f1;
+}
+
+.metric-card.success .metric-icon {
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+}
+
+.metric-card.warning .metric-icon {
+  background: rgba(245, 158, 11, 0.1);
+  color: #f59e0b;
+}
+
+.metric-card.info .metric-icon {
+  background: rgba(59, 130, 246, 0.1);
+  color: #3b82f6;
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.metric-label {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-bottom: 0.25rem;
+}
+
+.metric-subtext {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+/* Charts */
+.charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.chart-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .chart-card {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .chart-card {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.chart-card h4 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* KPIs Table */
+.kpis-tab {
+  margin-bottom: 2rem;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.section-header h3 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.kpi-count {
+  padding: 0.5rem 1rem;
+  background: #6366f1;
+  color: white;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.table-container {
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .table-container {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .table-container {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.kpi-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.kpi-table th,
+.kpi-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .kpi-table th,
+.company-analysis-container.light .kpi-table td {
+  border-bottom-color: #e2e8f0;
+}
+
+.company-analysis-container.dark .kpi-table th,
+.company-analysis-container.dark .kpi-table td {
+  border-bottom-color: #334155;
+}
+
+.kpi-table th {
+  font-weight: 600;
+  background: inherit;
+}
+
+.company-analysis-container.light .kpi-table th {
+  background: #f8fafc;
+}
+
+.company-analysis-container.dark .kpi-table th {
+  background: #1e293b;
+}
+
+.kpi-table tr:hover {
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .kpi-table tr:hover {
+  background: #f8fafc;
+}
+
+.company-analysis-container.dark .kpi-table tr:hover {
+  background: #1e293b;
+}
+
+.kpi-name-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.kpi-icon {
+  opacity: 0.7;
+}
+
+.kpi-value {
+  font-weight: 600;
+  color: #6366f1;
+}
+
+.kpi-unit {
+  opacity: 0.7;
+  font-size: 0.8rem;
+}
+
+.confidence-display {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 80px;
+}
+
+.confidence-bar {
+  height: 4px;
+  border-radius: 2px;
+  min-width: 20px;
+  transition: all 0.3s ease;
+}
+
+.confidence-text {
+  font-size: 0.8rem;
+  font-weight: 600;
+  min-width: 35px;
+}
+
+.topic-badge {
+  padding: 0.25rem 0.75rem;
+  background: rgba(99, 102, 241, 0.1);
+  color: #6366f1;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.kpi-source {
+  opacity: 0.7;
+  font-size: 0.8rem;
+}
+
+/* Confidence Badges */
+.confidence-badge {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  min-width: 45px;
+}
+
+.confidence-9, .confidence-8 {
+  background: #16a34a;
+}
+
+.confidence-7, .confidence-6 {
+  background: #f59e0b;
+  color: #1e293b;
+}
+
+.confidence-5 {
+  background: #f97316;
+}
+
+.confidence-4, .confidence-3, .confidence-2, .confidence-1, .confidence-0 {
+  background: #dc2626;
+}
+
+/* Analytics Tab */
+.analytics-tab {
+  margin-bottom: 2rem;
+}
+
+.analytics-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.analytics-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .analytics-card {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .analytics-card {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.analytics-card h4 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.top-kpis-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.top-kpi-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .top-kpi-item {
+  background: #f8fafc;
+}
+
+.company-analysis-container.dark .top-kpi-item {
+  background: #1e293b;
+}
+
+.kpi-rank {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: #6366f1;
+  color: white;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.kpi-info {
+  flex: 1;
+}
+
+.kpi-title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.kpi-meta {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+/* Export Section */
+.export-section {
+  padding: 2rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .export-section {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .export-section {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.export-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.export-header h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.export-section p {
+  margin: 0 0 1.5rem 0;
+  opacity: 0.8;
+}
+
+.export-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.export-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: white;
+}
+
+.export-btn.csv {
+  background: #10b981;
+}
+
+.export-btn.csv:hover {
+  background: #059669;
+}
+
+.export-btn.excel {
+  background: #059669;
+}
+
+.export-btn.excel:hover {
+  background: #047857;
+}
+
+.export-btn.json {
+  background: #6366f1;
+}
+
+.export-btn.json:hover {
+  background: #4f46e5;
+}
+
+/* States */
+.loading-state, .error-state, .no-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.company-analysis-container.light .loading-state,
+.company-analysis-container.light .error-state,
+.company-analysis-container.light .no-data {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.company-analysis-container.dark .loading-state,
+.company-analysis-container.dark .error-state,
+.company-analysis-container.dark .no-data {
+  background: #1e293b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+  opacity: 0.7;
+}
+
+.error-state {
+  flex-direction: row;
+  gap: 1.5rem;
+  text-align: left;
+}
+
+.error-icon {
+  font-size: 3rem;
+  flex-shrink: 0;
+}
+
+.error-content {
+  flex: 1;
+}
+
+.error-content h3 {
+  margin: 0 0 0.5rem 0;
+  color: #ef4444;
+}
+
+.error-content p {
+  margin: 0 0 1rem 0;
+  opacity: 0.8;
+}
+
+.retry-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #6366f1;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.retry-btn:hover {
+  background: #4f46e5;
+}
+
+.no-data-icon {
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.no-data h3 {
+  margin: 0 0 0.5rem 0;
+}
+
+.no-data p {
+  margin: 0;
+  opacity: 0.7;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .charts-row,
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .company-header {
+    padding: 1.5rem;
+  }
+  
+  .header-content {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .controls-row {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .content-area {
+    padding: 0 1.5rem 1.5rem;
+  }
+  
+  .tab-navigation {
+    padding: 0 1.5rem;
+    overflow-x: auto;
+  }
+  
+  .tab-btn {
+    white-space: nowrap;
+  }
+  
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .export-buttons {
+    flex-direction: column;
+  }
+  
+  .error-state {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .kpi-table {
+    font-size: 0.8rem;
+  }
+  
+  .kpi-table th,
+  .kpi-table td {
+    padding: 0.75rem 0.5rem;
+  }
+}

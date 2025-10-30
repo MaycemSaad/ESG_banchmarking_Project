@@ -1,0 +1,6 @@
+2025-07-19 22:46:13,947 - INFO - Starting economic data extraction pipeline
+2025-07-19 22:46:20,694 - ERROR - Scraping failed: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.ins.tn/en/statistiques", waiting until "domcontentloaded"
+
+2025-07-19 22:46:21,035 - ERROR - Failed to retrieve page content

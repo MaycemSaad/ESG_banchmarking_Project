@@ -1,0 +1,99 @@
+2025-07-28 06:53:06,572 [INFO] Starting economic indicators extraction...
+2025-07-28 06:53:06,573 [INFO] Fetching INS API data
+2025-07-28 06:53:06,574 [INFO] Fetching World Bank data for PIB (constant USD)
+2025-07-28 06:53:06,575 [INFO] Fetching World Bank data for RNB (USD courants)
+2025-07-28 06:53:06,576 [INFO] Fetching World Bank data for Revenu national disponible
+2025-07-28 06:53:06,577 [INFO] Fetching World Bank data for Inflation (%)
+2025-07-28 06:53:06,578 [INFO] Fetching World Bank data for Population totale
+2025-07-28 06:53:06,599 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:53:06,599 [INFO] Backing off _make_request(...) for 0.3s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:53:06,889 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:53:06,890 [INFO] Backing off _make_request(...) for 1.2s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:53:06,995 [WARNING] No valid data found for Revenu national disponible
+2025-07-28 06:53:06,996 [INFO] Fetching World Bank data for Taux d'épargne brute
+2025-07-28 06:53:07,052 [WARNING] Failed to save cache worldbank_FP.CPI.TOTL.ZG_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:53:07,052 [INFO]   -> Inflation (%): 7 records
+2025-07-28 06:53:07,062 [WARNING] Failed to save cache worldbank_NY.GNP.MKTP.CD_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:53:07,063 [INFO]   -> RNB (USD courants): 7 records
+2025-07-28 06:53:07,065 [WARNING] Failed to save cache worldbank_SP.POP.TOTL_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:53:07,066 [INFO]   -> Population totale: 7 records
+2025-07-28 06:53:07,073 [WARNING] Failed to save cache worldbank_NY.GDP.MKTP.KD_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:53:07,073 [INFO]   -> PIB (constant USD): 7 records
+2025-07-28 06:53:07,328 [WARNING] Failed to save cache worldbank_NY.GNS.ICTR.ZS_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:53:07,328 [INFO]   -> Taux d'épargne brute: 6 records
+2025-07-28 06:53:08,066 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:53:08,066 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:53:08,067 [ERROR] Error fetching INS API data: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:53:08,093 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:53:08,093 [INFO] Backing off _make_request(...) for 0.1s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:53:08,225 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:53:08,227 [INFO] Backing off _make_request(...) for 0.9s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:53:09,187 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:53:09,187 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:53:09,187 [ERROR] Error scraping INS table from http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:53:09,215 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:53:09,216 [INFO] Backing off _make_request(...) for 0.9s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:53:10,155 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:53:10,155 [INFO] Backing off _make_request(...) for 1.7s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:53:11,838 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:53:11,839 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:53:11,839 [ERROR] Error scraping INS table from http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:53:11,840 [INFO] Total INS indicators fetched: 0
+2025-07-28 06:53:11,845 [INFO] Data saved to tunisia_economic_indicators_20250728_065311.json
+2025-07-28 06:53:11,851 [INFO] Data saved to tunisia_economic_indicators_20250728_065311.csv
+2025-07-28 06:53:12,271 [INFO] Data saved to tunisia_economic_indicators_20250728_065311.xlsx
+2025-07-28 06:53:12,272 [INFO] Extraction completed in 5.70 seconds. Total indicators: 5
+2025-07-28 06:54:14,462 [INFO] Starting economic indicators extraction...
+2025-07-28 06:54:14,464 [INFO] Fetching INS API data
+2025-07-28 06:54:14,465 [INFO] Fetching World Bank data for Revenu national disponible
+2025-07-28 06:54:14,478 [WARNING] Failed to load cache worldbank_NY.GDP.MKTP.KD_2018_2025: Expecting value: line 5 column 17 (char 71)
+2025-07-28 06:54:14,478 [WARNING] Failed to load cache worldbank_FP.CPI.TOTL.ZG_2018_2025: Expecting value: line 5 column 17 (char 71)
+2025-07-28 06:54:14,478 [WARNING] Failed to load cache worldbank_NY.GNP.MKTP.CD_2018_2025: Expecting value: line 5 column 17 (char 71)
+2025-07-28 06:54:14,479 [INFO] Fetching World Bank data for PIB (constant USD)
+2025-07-28 06:54:14,479 [INFO] Fetching World Bank data for Inflation (%)
+2025-07-28 06:54:14,479 [INFO] Fetching World Bank data for RNB (USD courants)
+2025-07-28 06:54:14,482 [WARNING] Failed to load cache worldbank_SP.POP.TOTL_2018_2025: Expecting value: line 5 column 17 (char 65)
+2025-07-28 06:54:14,483 [INFO] Fetching World Bank data for Population totale
+2025-07-28 06:54:14,485 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:54:14,485 [INFO] Backing off _make_request(...) for 0.7s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:54:14,724 [WARNING] No valid data found for Revenu national disponible
+2025-07-28 06:54:14,726 [WARNING] Failed to save cache worldbank_FP.CPI.TOTL.ZG_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:54:14,727 [INFO]   -> Inflation (%): 7 records
+2025-07-28 06:54:14,735 [WARNING] Failed to load cache worldbank_NY.GNS.ICTR.ZS_2018_2025: Expecting value: line 5 column 17 (char 71)
+2025-07-28 06:54:14,737 [INFO] Fetching World Bank data for Taux d'épargne brute
+2025-07-28 06:54:14,739 [WARNING] Failed to save cache worldbank_NY.GDP.MKTP.KD_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:54:14,740 [INFO]   -> PIB (constant USD): 7 records
+2025-07-28 06:54:14,745 [WARNING] Failed to save cache worldbank_NY.GNP.MKTP.CD_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:54:14,746 [INFO]   -> RNB (USD courants): 7 records
+2025-07-28 06:54:14,757 [WARNING] Failed to save cache worldbank_SP.POP.TOTL_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:54:14,757 [INFO]   -> Population totale: 7 records
+2025-07-28 06:54:14,928 [WARNING] Failed to save cache worldbank_NY.GNS.ICTR.ZS_2018_2025: Object of type IndicatorMetadata is not JSON serializable
+2025-07-28 06:54:14,929 [INFO]   -> Taux d'épargne brute: 6 records
+2025-07-28 06:54:15,230 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:54:15,231 [INFO] Backing off _make_request(...) for 0.7s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:54:15,896 [ERROR] HTTP Error for http://dataportal.ins.tn/api/v1/indicators: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:54:15,897 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators)
+2025-07-28 06:54:15,898 [ERROR] Error fetching INS API data: 404 Client Error: Not Found for url: http://dataportal.ins.tn/api/v1/indicators
+2025-07-28 06:54:15,925 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:54:15,926 [INFO] Backing off _make_request(...) for 0.1s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:54:16,097 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:54:16,097 [INFO] Backing off _make_request(...) for 1.9s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:54:18,002 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:54:18,003 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux)
+2025-07-28 06:54:18,004 [ERROR] Error scraping INS table from http://dataportal.ins.tn/fr/themes/comptes-nationaux: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/comptes-nationaux
+2025-07-28 06:54:18,028 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:54:18,029 [INFO] Backing off _make_request(...) for 0.5s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:54:18,561 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:54:18,562 [INFO] Backing off _make_request(...) for 1.0s (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:54:19,631 [ERROR] HTTP Error for http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:54:19,632 [ERROR] Giving up _make_request(...) after 3 tries (requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages)
+2025-07-28 06:54:19,634 [ERROR] Error scraping INS table from http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages: 404 Client Error: Not Found for url: http://dataportal.ins.tn/fr/themes/conditions-de-vie-des-menages
+2025-07-28 06:54:19,634 [INFO] Total INS indicators fetched: 0
+2025-07-28 06:54:19,638 [INFO] Data saved to tunisia_economic_indicators_20250728_065419.json
+2025-07-28 06:54:19,643 [INFO] Data saved to tunisia_economic_indicators_20250728_065419.csv
+2025-07-28 06:54:19,703 [INFO] Data saved to tunisia_economic_indicators_20250728_065419.xlsx
+2025-07-28 06:54:19,704 [INFO] Extraction completed in 5.24 seconds. Total indicators: 5
+2025-07-28 07:03:09,826 [INFO] Starting economic data collection...
+2025-07-28 07:06:05,850 [INFO] Starting economic data collection...
+2025-07-28 07:06:05,851 [ERROR] Error during data collection: name 'MessagesPlaceholder' is not defined
+2025-07-28 07:15:15,230 [INFO] Starting economic data collection...

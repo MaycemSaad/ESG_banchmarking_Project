@@ -1,0 +1,185 @@
+Independent Auditor’s Report
+Independent Auditor’s Report continued
+Independent Auditor’s Report continued
+Independent Auditor’s Report continued
+International Consolidated
+INTERNATIONAL
+AIRLINES
+GROUP
+Airlines Group, S.A. and
+Subsidiaries
+Consolidated Financial Statements
+for the year ended 31 December 2023
+
+
+
+ | 
+ | 
+
+Consolidated income statement
+Year to 31 December
+€ million Note 2023 20221
+Passenger revenue 25,810 19,458
+Cargo revenue 1,156 1,615
+Other revenue 5 2,487 1,993
+Total revenue 5 29,453 23,066
+Employee costs 8 5,423 4,647
+Fuel, oil costs and emissions charges 7,557 6,120
+Handling, catering and other operating costs 3,849 2,971
+Landing fees and en-route charges 2,308 1,890
+Engineering and other aircraft costs 2,509 2,101
+Property, IT and other costs 6 1,058 950
+Selling costs 1,155 920
+Depreciation, amortisation and impairment 6 2,063 2,070
+Net gain on sale of property, plant and equipment1 (2) (22)
+Currency differences 26 141
+Total expenditure on operations 25,946 21,788
+Operating profit 3,507 1,278
+Finance costs 9 (1,113) (1,017)
+Finance income 9 386 52
+Net change in fair value of financial instruments 9 (11) 81
+Net financing credit relating to pensions 9 103 26
+Net currency retranslation credits/(charges) 176 (115)
+Other non-operating credits1 9 8 110
+Total net non-operating costs (451) (863)
+Profit before tax 3,056 415
+Tax 10 (401) 16
+Profit after tax for the year 2,655 431
+Attributable to:
+Equity holders of the parent 2,655 431
+Non-controlling interest – –
+2,655 431
+Basic earnings per share (€ cents) 11 53.8 8.7
+Diluted earnings per share (€ cents) 11 50.6 6.1
+1 The 2022 results include a reclassification to conform with the current year presentation for the Net gain on sale of property, plant and equipment.
+There is no impact on the Profit after tax. Further information is given in note 2.
+1
+€ million | Note | 2023 | 20221
+25,810
+1,156
+2,487
+29,453
+
+5,423
+7,557
+3,849
+2,308
+2,509
+1,058
+1,155
+2,063
+(2)
+26
+25,946
+3,507
+
+(1,113)
+386
+(11)
+103
+176
+8
+(451)
+3,056
+(401)
+2,655
+
+2,655
+–
+2,655
+
+53.8
+50.6
+
+Consolidated statement of other comprehensive income
+Year to 31 December
+€ million Note 2023 20221
+Items that may be reclassified subsequently to net profit
+Cash flow hedges:
+Fair value movements in equity1 30d (195) 1,472
+Reclassified and reported in net profit 30d (142) (1,233)
+Fair value movements on cost of hedging1 (120) (115)
+Cost of hedging reclassified and reported in net profit 82 38
+Currency translation differences 33 18 (53)
+Items that will not be reclassified to net profit
+Fair value movements on other equity investments 19 127 2
+Fair value movements on liabilities attributable to credit risk changes (119) (6)
+Remeasurements of post-employment benefit obligations (1,076) 662
+Remeasurements of long-term employee-related provisions (18) 52
+Total other comprehensive (loss)/income for the year, net of tax (1,443) 819
+Profit after tax for the year 2,655 431
+Total comprehensive income for the year 1,212 1,250
+Total comprehensive income is attributable to:
+Equity holders of the parent 1,212 1,250
+Non-controlling interest 33 – –
+1,212 1,250
+1 The 2022 results include a reclassification of losses and gains associated with the fair value movements on cash flow hedges and fair value
+movements on cost of hedging, respectively. There is no impact on Total other comprehensive (loss)/income for the year, net of tax. Further
+information is given in note 2.
+Items in the consolidated Statement of other comprehensive income above are disclosed net of tax.
+2
+(195)
+(142)
+(120)
+82
+18
+
+127
+(119)
+(1,076)
+(18)
+(1,443)
+2,655
+
+1,212
+
+1,212
+–
+1,212
+
+Consolidated balance sheet
+31 December 31 December
+€ million Note 2023 2022
+Non-current assets
+Property, plant and equipment 13 19,776 18,346
+Intangible assets 17 3,909 3,556
+Investments accounted for using the equity method 18 47 43
+Other equity investments 19 188 55
+Employee benefit assets 34 1,380 2,334
+Derivative financial instruments 30 42 81
+Deferred tax assets 10 1,202 1,282
+Other non-current assets 20 432 362
+26,976 26,059
+Current assets
+Non-current assets held for sale 16 – 19
+Inventories 21 494 353
+Trade receivables 20 1,559 1,330
+Other current assets 20 1,574 1,226
+Current tax receivable 10 159 72
+Derivative financial instruments 30 81 645
+Current interest-bearing deposits 22 1,396 403
+Cash and cash equivalents 22 5,441 9,196
+10,704 13,244
+Total assets 37,680 39,303
+Shareholders’ equity
+Issued share capital 31 497 497
+Share premium 31 7,770 7,770
+Treasury shares (100) (28)
+Other reserves (4,895) (6,223)
+Total shareholders’ equity 3,272 2,016
+Non-controlling interest 33 6 6
+Total equity 3,278 2,022
+Non-current liabilities
+Borrowings 26 13,831 17,141
+Employee benefit obligations 34 175 217
+Deferred tax liability 10 4 –
+Provisions 27 2,831 2,652
+Deferred revenue 24 257 326
+Derivative financial instruments 30 106 84
+Other long-term liabilities 25 219 200
+17,423 20,620
+Current liabilities
+Borrowings 26 2,251 2,843
+Trade and other payables 23 5,590 5,209
+Deferred r
+[...]

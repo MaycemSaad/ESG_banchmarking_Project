@@ -1,0 +1,5 @@
+2025-07-10 12:28:51,600 - INFO - === ESG KPI Extraction Process Started ===
+2025-07-10 12:28:51,613 - CRITICAL - Failed to load KPI reference data. Exiting.
+2025-07-10 12:31:18,227 - INFO - === ESG KPI Extraction Process Started ===
+2025-07-10 12:31:18,235 - INFO - ✅ Successfully loaded KPI reference with 154 KPIs
+2025-07-10 12:31:18,242 - WARNING - No KPI data extracted from any files

@@ -1,0 +1,110 @@
+2025-07-10 12:44:04,564 - INFO - Starting ESG KPI Extraction
+2025-07-10 12:44:04,566 - INFO - Discovered structure: {'Consumer Goods': ['Apparel, Accessories & Footwear', 'Building Products & Furnishings', 'Multiline and Specialty Retailers & Distributors'], 'Extractives & Minerals Processing': ['Iron & Steel Producers', 'Oil & Gas Exploration & Production'], 'Financials': ['Asset Management & Custody Activities', 'Commercial Banks'], 'Food & Beverage': ['Agricultural Products', 'Meat, Poultry & Dairy'], 'Health Care': ['Biotechnology & Pharmaceuticals', 'Health Care Delivery', 'Medical Equipment & Supplies'], 'Infrastructure': ['Electric Utilities & Power Generators', 'Engineering & Construction Services'], 'Renewable Resources & Alternative Energy': ['Wind Technology & Project Developers'], 'Resource Transformation': ['Aerospace & Defence', 'Chemicals', 'Electrical & Electronic Equipment'], 'Services': ['Hotels & Lodging', 'Professional & Commercial Services'], 'Technology & Communications': ['Hardware', 'Semiconductors', 'Software & IT Services', 'Telecommunication Services'], 'Transportation': ['Airlines', 'Auto Parts']}
+2025-07-10 12:44:04,571 - INFO - Found 49 PDF files
+2025-07-10 12:44:04,571 - INFO - Processing: Consumer Goods/Apparel, Accessories & Footwear/Aditya Birla Fashion and Retail Ltd_2023.pdf
+2025-07-10 12:44:04,572 - INFO - Processing: Consumer Goods/Building Products & Furnishings/Accsys Technologies PLC_2023.pdf
+2025-07-10 12:44:04,572 - INFO - Processing: Consumer Goods/Multiline and Specialty Retailers & Distributors/AAP ESG 2022_M2.0.pdf
+2025-07-10 12:44:04,572 - INFO - Processing: Consumer Goods/Multiline and Specialty Retailers & Distributors/ACCO Brands Corp_2023.pdf
+2025-07-10 12:44:04,572 - INFO - Processing: Extractives & Minerals Processing/Iron & Steel Producers/Acerinox SA_2023.pdf
+2025-07-10 12:44:04,572 - INFO - Processing: Extractives & Minerals Processing/Oil & Gas Exploration & Production/ACE Enexor Inc_2021.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Asset Management & Custody Activities/3i Group PLC_2024.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Asset Management & Custody Activities/AB - AllianceBernstein Holding LP_2024.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Asset Management & Custody Activities/Abrdn plc_2024.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Asset Management & Custody Activities/Administradora de Fondos de Pensiones y Cesantias PROTECCION SA-Colombia_2022.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Asset Management & Custody Activities/PROTECCION_INFORME_ANUAL_2022.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Commercial Banks/ABN AMRO Bank NV_2021.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Financials/Commercial Banks/Abu Dhabi Commercial Bank PJSC ADCB_2023.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Food & Beverage/Agricultural Products/Adecoagro SA_2023.pdf
+2025-07-10 12:44:04,573 - INFO - Processing: Food & Beverage/Meat, Poultry & Dairy/a2 Milk Co Ltd-The_2024.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Health Care/Biotechnology & Pharmaceuticals/esg-disclosure-supplement.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Health Care/Health Care Delivery/Acadia Healthcare Co Inc_2023.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Health Care/Medical Equipment & Supplies/Abbott Laboratories_2023.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Infrastructure/Electric Utilities & Power Generators/Abengoa Yield plc_2023.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Infrastructure/Electric Utilities & Power Generators/AC Energy Inc._2023.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Infrastructure/Engineering & Construction Services/A&T Europe - Spa_2023.pdf
+2025-07-10 12:44:04,574 - INFO - Processing: Infrastructure/Engineering & Construction Services/AECOM_2024_Sustainability_Report_final 4.0.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Infrastructure/Engineering & Construction Services/Aecon Group Inc._2023.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Renewable Resources & Alternative Energy/Wind Technology & Project Developers/Relatório de Sustentabilidade 2022.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Aerospace & Defence/AAR Corp_2024.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Chemicals/AdvanSix-2023-Sustainability-Report.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Chemicals/sustainability-report-2023-2024.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/AAON Inc_2023.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Acme Electronics Corp_2023.pdf
+2025-07-10 12:44:04,575 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Acuity Brands Inc_2024.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Sustainability Statement 2024.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Services/Hotels & Lodging/Accor SA_2021.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Services/Professional & Commercial Services/Adecco_2022.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Services/Professional & Commercial Services/ADT Inc_2023.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Technology & Communications/Hardware/2023_Acer_Sustainability_Report.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Technology & Communications/Hardware/Accton Technology Corp_2023.pdf
+2025-07-10 12:44:04,576 - INFO - Processing: Technology & Communications/Hardware/Advantech Co Ltd_2023.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Semiconductors/corporate-responsibility-report.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/Accenture Development Partnerships_2024.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/Acer E-Enabling Service Business Inc_2023.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/ACI Worldwide_2023.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/Activision Blizzard Inc_2022.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/Adeia 2024 ESG Report.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/Adobe Inc_2023.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Software & IT Services/SASB Sustainability Report 2024 for Activants Pte Ltd Singapore v1.0 250320.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Technology & Communications/Telecommunication Services/Advanced Info Service PCL_2024.pdf
+2025-07-10 12:44:04,577 - INFO - Processing: Transportation/Airlines/Aer Lingus Group DAC_2023.pdf
+2025-07-10 12:44:04,578 - INFO - Processing: Transportation/Airlines/Aeroflot PJSC_2023.pdf
+2025-07-10 12:44:04,578 - INFO - Processing: Transportation/Auto Parts/adient-2024-sustainability-report.pdf
+2025-07-10 12:44:04,578 - WARNING - No results extracted
+2025-07-10 12:46:29,275 - INFO - Starting ESG KPI Extraction
+2025-07-10 12:46:29,278 - ERROR - Error loading KPI reference: [Errno 2] No such file or directory: 'esg_kpis A+ critical(Sheet1).csv'
+2025-07-10 12:47:11,650 - INFO - Starting ESG KPI Extraction
+2025-07-10 12:47:11,657 - INFO - Loaded 154 KPIs from reference
+2025-07-10 12:47:11,660 - INFO - Discovered 11 sectors with sub-sectors
+2025-07-10 12:47:11,663 - INFO - Found 49 PDF files
+2025-07-10 12:47:11,663 - INFO - Processing: Consumer Goods/Apparel, Accessories & Footwear/Aditya Birla Fashion and Retail Ltd_2023.pdf
+2025-07-10 12:50:07,395 - INFO - Processing: Consumer Goods/Building Products & Furnishings/Accsys Technologies PLC_2023.pdf
+2025-07-10 12:50:07,705 - INFO - Processing: Consumer Goods/Multiline and Specialty Retailers & Distributors/AAP ESG 2022_M2.0.pdf
+2025-07-10 12:50:22,378 - INFO - Processing: Consumer Goods/Multiline and Specialty Retailers & Distributors/ACCO Brands Corp_2023.pdf
+2025-07-10 12:50:31,765 - INFO - Processing: Extractives & Minerals Processing/Iron & Steel Producers/Acerinox SA_2023.pdf
+2025-07-10 12:50:31,843 - ERROR - Error processing C:\Users\informasud\Desktop\Agentic AI for Economic & ESG Data Automation\reports\Extractives & Minerals Processing\Iron & Steel Producers\Acerinox SA_2023.pdf: No /Root object! - Is this really a PDF?
+2025-07-10 12:50:31,843 - INFO - Processing: Extractives & Minerals Processing/Oil & Gas Exploration & Production/ACE Enexor Inc_2021.pdf
+2025-07-10 12:51:04,046 - INFO - Processing: Financials/Asset Management & Custody Activities/3i Group PLC_2024.pdf
+2025-07-10 12:51:04,812 - INFO - Processing: Financials/Asset Management & Custody Activities/AB - AllianceBernstein Holding LP_2024.pdf
+2025-07-10 12:51:08,116 - INFO - Processing: Financials/Asset Management & Custody Activities/Abrdn plc_2024.pdf
+2025-07-10 12:51:08,715 - INFO - Processing: Financials/Asset Management & Custody Activities/Administradora de Fondos de Pensiones y Cesantias PROTECCION SA-Colombia_2022.pdf
+2025-07-10 12:54:28,326 - INFO - Processing: Financials/Asset Management & Custody Activities/PROTECCION_INFORME_ANUAL_2022.pdf
+2025-07-10 12:57:29,348 - INFO - Processing: Financials/Commercial Banks/ABN AMRO Bank NV_2021.pdf
+2025-07-10 12:57:29,837 - INFO - Processing: Financials/Commercial Banks/Abu Dhabi Commercial Bank PJSC ADCB_2023.pdf
+2025-07-10 12:58:17,726 - INFO - Processing: Food & Beverage/Agricultural Products/Adecoagro SA_2023.pdf
+2025-07-10 12:58:49,625 - INFO - Processing: Food & Beverage/Meat, Poultry & Dairy/a2 Milk Co Ltd-The_2024.pdf
+2025-07-10 12:58:50,068 - INFO - Processing: Health Care/Biotechnology & Pharmaceuticals/esg-disclosure-supplement.pdf
+2025-07-10 12:58:53,887 - INFO - Processing: Health Care/Health Care Delivery/Acadia Healthcare Co Inc_2023.pdf
+2025-07-10 12:59:02,082 - INFO - Processing: Health Care/Medical Equipment & Supplies/Abbott Laboratories_2023.pdf
+2025-07-10 12:59:37,971 - INFO - Processing: Infrastructure/Electric Utilities & Power Generators/Abengoa Yield plc_2023.pdf
+2025-07-10 13:01:32,578 - INFO - Processing: Infrastructure/Electric Utilities & Power Generators/AC Energy Inc._2023.pdf
+2025-07-10 13:02:14,403 - INFO - Processing: Infrastructure/Engineering & Construction Services/A&T Europe - Spa_2023.pdf
+2025-07-10 13:02:33,783 - INFO - Processing: Infrastructure/Engineering & Construction Services/AECOM_2024_Sustainability_Report_final 4.0.pdf
+2025-07-10 13:02:51,942 - INFO - Processing: Infrastructure/Engineering & Construction Services/Aecon Group Inc._2023.pdf
+2025-07-10 13:03:08,347 - INFO - Processing: Renewable Resources & Alternative Energy/Wind Technology & Project Developers/Relatório de Sustentabilidade 2022.pdf
+2025-07-10 13:03:26,807 - INFO - Processing: Resource Transformation/Aerospace & Defence/AAR Corp_2024.pdf
+2025-07-10 13:03:30,508 - INFO - Processing: Resource Transformation/Chemicals/AdvanSix-2023-Sustainability-Report.pdf
+2025-07-10 13:03:56,021 - INFO - Processing: Resource Transformation/Chemicals/sustainability-report-2023-2024.pdf
+2025-07-10 13:04:46,313 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/AAON Inc_2023.pdf
+2025-07-10 13:05:13,562 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Acme Electronics Corp_2023.pdf
+2025-07-10 13:05:48,018 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Acuity Brands Inc_2024.pdf
+2025-07-10 13:06:08,118 - INFO - Processing: Resource Transformation/Electrical & Electronic Equipment/Sustainability Statement 2024.pdf
+2025-07-10 13:06:47,234 - INFO - Processing: Services/Hotels & Lodging/Accor SA_2021.pdf
+2025-07-10 13:09:54,474 - INFO - Processing: Services/Professional & Commercial Services/Adecco_2022.pdf
+2025-07-10 13:11:40,061 - INFO - Processing: Services/Professional & Commercial Services/ADT Inc_2023.pdf
+2025-07-10 13:11:50,379 - INFO - Processing: Technology & Communications/Hardware/2023_Acer_Sustainability_Report.pdf
+2025-07-10 13:12:42,964 - INFO - Processing: Technology & Communications/Hardware/Accton Technology Corp_2023.pdf
+2025-07-10 13:14:00,179 - INFO - Processing: Technology & Communications/Hardware/Advantech Co Ltd_2023.pdf
+2025-07-10 13:17:12,545 - INFO - Processing: Technology & Communications/Semiconductors/corporate-responsibility-report.pdf
+2025-07-10 13:18:37,196 - INFO - Processing: Technology & Communications/Software & IT Services/Accenture Development Partnerships_2024.pdf
+2025-07-10 13:18:39,782 - INFO - Processing: Technology & Communications/Software & IT Services/Acer E-Enabling Service Business Inc_2023.pdf
+2025-07-10 13:19:06,236 - INFO - Processing: Technology & Communications/Software & IT Services/ACI Worldwide_2023.pdf
+2025-07-10 13:20:31,465 - INFO - Processing: Technology & Communications/Software & IT Services/Activision Blizzard Inc_2022.pdf
+2025-07-10 13:21:03,026 - INFO - Processing: Technology & Communications/Software & IT Services/Adeia 2024 ESG Report.pdf
+2025-07-10 13:21:13,601 - INFO - Processing: Technology & Communications/Software & IT Services/Adobe Inc_2023.pdf
+2025-07-10 13:21:38,461 - INFO - Processing: Technology & Communications/Software & IT Services/SASB Sustainability Report 2024 for Activants Pte Ltd Singapore v1.0 250320.pdf
+2025-07-10 13:21:54,095 - INFO - Processing: Technology & Communications/Telecommunication Services/Advanced Info Service PCL_2024.pdf
+2025-07-10 13:23:12,838 - INFO - Processing: Transportation/Airlines/Aer Lingus Group DAC_2023.pdf
+2025-07-10 13:28:00,063 - INFO - Processing: Transportation/Airlines/Aeroflot PJSC_2023.pdf
+2025-07-10 13:28:00,141 - ERROR - Error processing C:\Users\informasud\Desktop\Agentic AI for Economic & ESG Data Automation\reports\Transportation\Airlines\Aeroflot PJSC_2023.pdf: No /Root object! - Is this really a PDF?
+2025-07-10 13:28:00,141 - INFO - Processing: Transportation/Auto Parts/adient-2024-sustainability-report.pdf

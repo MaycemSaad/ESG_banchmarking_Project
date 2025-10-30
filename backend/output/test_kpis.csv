@@ -1,0 +1,60 @@
+company,sector,subsector,kpi_name_std,kpi_name_raw,value,unit,year,page,method,match_score,extracted_at
+,,,Percentage of Feedstock Suppliers Meeting Sustainability Criteria,Sustainability Accounting Standard (“SASB”),,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,The table below sets out the SASB disclosures for the year ending 31 March 2024 for 3i Group plc (“3i”). We have chosen to adopt a new version of the SASB standard for,31.0,,2024.0,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Tier 1 Supplier Wastewater Compliance Rate,Asset Management & Custody Activities issued in December 2023 that is applicable for accounting periods beginning on or after 1 January 2025.,202.0,,2023.0,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"Transparent FN-AC-270a.1 (1) Number and (2) percentage of covered We have no records of investment-related investigations, consumer-initiated",-270.0,%,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,Information & employees with a record of investment-related complaints or other regulatory proceedings that are pending or threatened,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Suppliers Screened for ESG Issues,"Fair Advice for investigations, consumer-initiated complaints, against any current employee.",,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,"proceedings Employees may engage in private civil litigation, but we are not aware of any",,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,proceedings of significance.,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Total Palm Oil Sourcing Volume,FN-AC-270.2 Total amount of monetary losses as a result of None.,-270.2,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation,legal proceedings associated with marketing and,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of Sox,communication of financial product related,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation,information to new and returning customers,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"FN-AC-270a.3 Description of approach to informing customers 3i does not have ‘retail’ customers. It has shareholders, for whose benefit the",-270.0,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Research and innovation in sustainable science,about products and services Company is managed. We also manage private funds and co-investment,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Research and innovation in sustainable science,"vehicles, whose investors are professional clients, and various employee",,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),carried interest vehicles. Please refer to pages 110-113 of our Annual report,110.0,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Operations Compliant with Jurisdictional Regulatory Requirements for Product Identification and Tracing,"and accounts 2024, available on www.3i.com/investor-relations for a",202.0,,2024.0,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),discussion of how we engage with our shareholders and fund investors.,,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,Employee FN-AC-330a.1 Percentage of (1) gender and (2) diversity group We make partial disclosures under this heading due to our small headcount.,-330.0,%,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Data Privacy Compliance,"Diversity & representation for (a) executive management, (b) Please refer to the Sustainability Data Appendix available on",,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"Inclusion non-executive management, (c) professionals, https://www.3i.com/sustainability/ and to pages 53, 54, 118 and 119 of our",3.0,,,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Research and innovation in sustainable science,and (d) all other employees Annual report and accounts 2024 available on www.3i.com/investor-relations,202.0,,2024.0,1,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"Incorporation of FN-AC-410a.1 Amount of assets under management, by asset Amount of assets under management that employ:",-410.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of Sox,"Environmental, class, that employ (1) integration of",1.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),(1) integration of ESG issues: 100% of total AUM (excluding some small,1.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation,"Social and environmental, social, and governance (ESG)",,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),"legacy and minority investments), 100% of Private Equity AUM (excluding",100.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Operations Compliant with Jurisdictional Regulatory Requirements for Product Identification and Tracing,"Governance issues, (2) sustainability themed investing and (3)",2.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),"some small legacy and minority investments), 100% of Infrastructure",100.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,in Investment,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Number of Suppliers with Quality Management System Certification,Management &,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Suppliers Approved through Inspections or Audits,sustainability assets or funds.,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),"(3) Screening: 100% of total AUM, 100% of Private Equity AUM; 100% of",3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),Please refer to pages 42-44 of our Annual report and accounts 2024 available,42.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Number of Access to Medicine Initiatives,"on www.3i.com/investor-relations and to our Responsible Investment policy,",3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"FN-AC-410a.2 Description of approach to incorporation of Please refer to pages 42-44 of our Annual report and accounts 2024,",-410.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Research and innovation in sustainable science,"environmental, social and governance (ESG) available on www.3i.com/investor-relations",3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation,factors in investment or wealth management,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation,processes and strategies,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"FN-AC-410a.3 Description of proxy voting and investee Please refer to page 152of our Annual report and accounts 2024, available on",-410.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Operations Compliant with Jurisdictional Regulatory Requirements for Product Identification and Tracing,engagement policies and procedures www.3i.com/investor-relations,3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,"Financed FN-AC-410b.1 Absolute gross financed emissions, We make partial disclosures under this heading in line with TCFD",-410.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Tier 1 Supplier Wastewater Compliance Rate,"Emissions disaggregated by (1) Scope 1, (2) Scope 2and (3) recommendations. We disclose the total scope 1 and 2 emissions of the 3i",1.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,In-Hospital Fall with Hip Fracture Rate,"Scope 3 Group plc portfolio, allocated with an equity ownership approach (“portfolio",3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),"emissions”). Please refer to page 65 of our Annual report and accounts 2024,",65.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,FN-AC-410b.2 Total amount of assets under management We disclose the percentage of 3i’s investment portfolio value included in the,-410.0,%,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,(AUM) included in the financed emissions financed emissions calculations. We also disclose the total portfolio value of,,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of NOx (excluding N2O),disclosure 3i Group plc. Please refer to pages 4 and 65 of our Annual report and,3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,FN-AC-410b.3 Percentage of total assets under management We disclose the percentage of 3i’s investment portfolio value included in the,-410.0,%,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Priority Non-Conformance Rate in Supply Chain Audits,(AUM) included in the financed emissions financed emissions calculations. Please refer to page 65 of our Annual report,65.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Research and innovation in sustainable science,"calculation and accounts 2024, available on www.3i.com/investor-relations",202.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"FN-AC-410b.4 Description of the methodology used to calculate Please refer to page 65 of our Annual report and accounts 2024, available on",-410.0,,2024.0,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Air emissions of Sox,financed emissions www.3i.com/investor-relations,3.0,,,2,text,0.855,2025-08-27T22:39:38.196389
+,,,Total Palm Oil Sourcing Volume,Business Ethics FN-AC-510a.1 Total amount of monetary losses as a result of None,-510.0,,,3,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Operations Compliant with Jurisdictional Regulatory Requirements for Product Identification and Tracing,"legal proceedings associated with fraud, insider",,,,3,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Suppliers Approved through Inspections or Audits,financial industry laws or regulations,,,,3,text,0.855,2025-08-27T22:39:38.196389
+,,,Percentage of Products with Assessed Chemicals of Concern,"FN-AC-510a.2 Description of whistle blower policies and Please refer to page 56 of our Annual report and accounts 2024, available on",-510.0,,2024.0,3,text,0.855,2025-08-27T22:39:38.196389
+,,,Total Palm Oil Sourcing Volume,"FN-AC-000.A Total assets under management (AUM) Please refer to page 4 of our Annual report and accounts 2024, available on",-0.0,,2024.0,3,text,0.855,2025-08-27T22:39:38.196389
+,,,Total Palm Oil Sourcing Volume,FN-AC-000.B Total assets under custody and supervision N ot applicable. We do not perform regulated custody or supervision activities.,-0.0,,,3,text,0.855,2025-08-27T22:39:38.196389

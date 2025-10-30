@@ -1,0 +1,57 @@
+.connection-test {
+  padding: 12px 20px;
+  margin: 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.connection-test.connected {
+  background: #d4edda;
+  color: #155724;
+}
+
+.connection-test.error {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.connection-test.testing {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.connection-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.retry-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-left: 10px;
+}
+
+.retry-btn:hover {
+  background: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .connection-content {
+    padding: 0 1rem;
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+  }
+  
+  .retry-btn {
+    margin-left: 0;
+  }
+}

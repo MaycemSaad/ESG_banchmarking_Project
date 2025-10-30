@@ -1,0 +1,5 @@
+2025-07-19 22:48:08,351 - INFO - Starting economic data extraction pipeline
+2025-07-19 22:48:11,243 - INFO - Attempting to navigate to https://www.ins.tn/en/statistiques (attempt 1)
+2025-07-19 22:48:15,221 - ERROR - Data extraction failed: '\n    "source"'
+2025-07-19 22:48:15,222 - ERROR - Pipeline failed at data extraction stage
+2025-07-19 22:48:15,222 - ERROR - Economic data extraction completed with errors

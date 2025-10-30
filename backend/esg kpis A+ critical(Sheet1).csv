@@ -1,0 +1,155 @@
+kpi_name;kpi_name_fr;topic;topic_fr;score;topic_score;source;applies_to_all
+Tier 1 Supplier Wastewater Compliance Rate;Taux de conformité des eaux usées des fournisseurs de niveau 1;Environmental Impacts in the Supply Chain;Impacts environnementaux dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Labour Risk Severity Index;Indice de gravité des risques liés au travail;Labour Conditions in the Supply Chain;Conditions de travail dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Priority Non-Conformance Rate in Supply Chain Audits;Taux de non-conformité prioritaire dans les audits de la chaîne d'approvisionnement;Labour Conditions in the Supply Chain;Conditions de travail dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Supplier Qualification Approval System Compliance Rate;Taux de conformité au système d'approbation de qualification des fournisseurs;Labour Conditions in the Supply Chain;Conditions de travail dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Supplier Social Responsibility Commitment Compliance Rate;Taux de conformité à l'engagement de responsabilité sociale des fournisseurs;Labour Conditions in the Supply Chain;Conditions de travail dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Tier 1 Supplier Audit Coverage;Couverture des audits des fournisseurs de niveau 1;Labour Conditions in the Supply Chain;Conditions de travail dans la chaîne d'approvisionnement;A - High;A+ - Critical;SASB;FAUX
+Chemical Risk Assessment Coverage;Couverture de l'évaluation des risques chimiques;Management of Chemicals in Products;Gestion des produits chimiques dans les produits;A - High;A+ - Critical;SASB;FAUX
+Polyurethane Leather Certification Status (GRS);Statut de certification du cuir en polyuréthane (GRS);Management of Chemicals in Products;Gestion des produits chimiques dans les produits;A - High;A+ - Critical;SASB;FAUX
+Restricted Substance Compliance Rate;Taux de conformité aux substances restreintes;Management of Chemicals in Products;Gestion des produits chimiques dans les produits;A - High;A+ - Critical;SASB;FAUX
+Product Traceability;Traçabilité des produits;Raw Materials Sourcing;Approvisionnement en matières premières;A - High;A+ - Critical;SASB;FAUX
+Data Privacy Compliance;Conformité à la protection des données;Data Privacy Advertising Standards;Normes publicitaires sur la confidentialité des données;A - High;A+ - Critical;SASB;FAUX
+Chemical Wastewater Discharge;Décharge d'eaux usées chimiques;Environmental Social Impacts of Palm Oil Supply Chain;Impacts environnementaux et sociaux de la chaîne d'approvisionnement en huile de palme;A - High;A+ - Critical;SASB;FAUX
+Total Palm Oil Sourcing Volume;Volume total d'approvisionnement en huile de palme;Environmental Social Impacts of Palm Oil Supply Chain;Impacts environnementaux et sociaux de la chaîne d'approvisionnement en huile de palme;A - High;A+ - Critical;SASB;FAUX
+Percentage of Products with Assessed Chemicals of Concern;Pourcentage de produits avec des substances chimiques préoccupantes évaluées;Product Environmental, Health and Safety Performance;Performance environnementale, santé et sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Air emissions of NOx (excluding N2O);Émissions d'air de NOx (hors N2O);Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Air emissions of particulate matter (PM10);Émissions atmosphériques de particules (PM10);Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Air emissions of Sox;Émissions atmosphériques de Sox;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Refinery Population Exposure Index;Indice d'exposition de la population aux raffineries;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+GFSI Certification Rate;Taux de certification GFSI;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Major Non-Conformance Rate;Taux de non-conformité majeur;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Recall Frequency Rate;Taux de fréquence des rappels;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+High-Risk Food Safety Violation Rate;Taux de violations de la sécurité alimentaire à haut risque;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Human rights impact assessment;Évaluation de l'impact sur les droits de l'homme;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Number of confirmed foodborne illness outbreaks;Nombre d'épidémies de maladies d'origine alimentaire confirmées;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Number of recalls issued;Nombre de rappels émis;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation;Pourcentage entraînant une enquête des Centers for Disease Control and Prevention (CDC) des États-Unis;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+To Be Welcoming enrollees;Être accueillant pour les inscrits;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Total amount of food product recalled;Montant total des produits alimentaires rappelés;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Food Safety Violation Notice Rate;Taux d'avis de violation de la sécurité alimentaire;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+GFSI Certification Rate of Tier 1 Suppliers;Taux de certification GFSI des fournisseurs de niveau 1;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Foodborne Disease Outbreak Rate;Taux d'épidémies de maladies d'origine alimentaire;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Percentage of restaurants inspected by a food safety oversight body;Pourcentage de restaurants inspectés par un organisme de surveillance de la sécurité alimentaire;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Percentage receiving critical violations;Pourcentage recevant des violations critiques;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Restaurant Food Safety Inspection Coverage;Couverture des inspections de sécurité alimentaire des restaurants;Food Safety;Sécurité alimentaire;A - High;A+ - Critical;SASB;FAUX
+Tobacco Harm Reduction Product Portfolio Coverage;Couverture du portefeuille de produits de réduction des risques liés au tabac;Public Health;Santé publique;A - High;A+ - Critical;SASB;FAUX
+Number of Access to Medicine Initiatives;Nombre d'initiatives d'accès aux médicaments;Access to Medicines;Accès aux médicaments;A - High;A+ - Critical;SASB;FAUX
+Number of Unique WHO Prequalified Products;Nombre de produits uniques préqualifiés par l'OMS;Access to Medicines;Accès aux médicaments;A - High;A+ - Critical;SASB;FAUX
+Percentage of Prequalified Products in Portfolio;Pourcentage de produits préqualifiés dans le portefeuille;Access to Medicines;Accès aux médicaments;A - High;A+ - Critical;SASB;FAUX
+Research and innovation in sustainable science;Recherche et innovation en science durable;Access to Medicines;Accès aux médicaments;A - High;A+ - Critical;SASB;FAUX
+WHO-defined Therapeutic Area Targeting;Ciblage des domaines thérapeutiques défini par l'OMS;Access to Medicines;Accès aux médicaments;A - High;A+ - Critical;SASB;FAUX
+Clinical Trial Participant Informed Consent Rate;Taux de consentement éclairé des participants aux essais cliniques;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Clinical Trial Safety Incident Rate;Taux d'incidents de sécurité des essais cliniques;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Clinical Trial Safety Training Participation;Participation à la formation sur la sécurité des essais cliniques;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Clinical Trial Safety Violation Cost;Coût des violations de la sécurité des essais cliniques;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Inspections Meeting Minimum Clinical Trial Criteria;Inspections répondant aux critères minimaux des essais cliniques;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Number of Clinical Trial Audits Conducted by Region;Nombre d'audits d'essais cliniques réalisés par région;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Number of GCP-Related Clinical Trial Terminations;Nombre de résiliations d'essais cliniques liées aux BPC;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Total Clinical Trial Inspections with Objectionable Conditions;Total des inspections d'essais cliniques avec des conditions objectionnables;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Voluntary Remediation Actions Taken;Actions de remédiation volontaires entreprises;Safety of Clinical Trial Participants;Sécurité des participants aux essais cliniques;A - High;A+ - Critical;SASB;FAUX
+Average Days to Identify and Respond to Compromised Drug Incidents;Nombre moyen de jours pour identifier et répondre aux incidents de médicaments compromis;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Percentage of Operations Compliant with Jurisdictional Regulatory Requirements for Product Identification and Tracing;Pourcentage d'opérations conformes aux exigences réglementaires juridictionnelles pour l'identification et le traçage des produits;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Percentage of Supply Chain Audits with Counterfeit Drug Detection;Pourcentage des audits de la chaîne d'approvisionnement avec détection de médicaments contrefaits;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Private-Label Recall Rate;Taux de rappel des marques de distributeur;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Total Drug Recalls Issued;Total des rappels de médicaments émis;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Total Units Subject to Recall;Total des unités soumises à rappel;Drug Supply Chain Integrity;Intégrité de la chaîne d'approvisionnement des médicaments;A - High;A+ - Critical;SASB;FAUX
+Barcode Implementation Rate;Taux de mise en œuvre des codes-barres;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+Data Verification System Uptime;Temps de disponibilité du système de vérification des données;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+Dispensing Error Rate;Taux d'erreur de délivrance;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+Educational Resource Accessibility;Accessibilité des ressources éducatives;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+High-Risk Dispensing Practices Identified;Pratiques de délivrance à haut risque identifiées;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+Total Monetary Losses from Prescription Dispensing Errors;Pertes monétaires totales dues aux erreurs de délivrance d'ordonnances;Patient Health Outcomes;Résultats de santé des patients;A - High;A+ - Critical;SASB;FAUX
+Hospital-Acquired Infection Rate;Taux d'infection acquise à l'hôpital;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+In-Hospital Fall with Hip Fracture Rate;Taux de chutes à l'hôpital avec fracture de la hanche;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Post-Operative Acute Kidney Injury Requiring Dialysis Rate;Taux de lésion rénale aiguë post-opératoire nécessitant une dialyse;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Post-Operative Respiratory Failure Rate;Taux d'insuffisance respiratoire post-opératoire;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Pressure Ulcer Incidence Rate;Taux d'incidence des ulcères de pression;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Serious Reportable Events by Event Type (SRETYPE);Événements graves rapportables par type d'événement (SRETYPE);Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Serious Reportable Events by Healthcare Setting (SRESITE);Événements graves rapportables par cadre de soins (SRESITE);Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Thirty-Day Readmission Ratio;Ratio de réadmission à trente jours;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Total Serious Reportable Events (TSRE);Total des événements graves rapportables (TSRE);Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Unplanned Readmission Rate;Taux de réadmission non planifiée;Quality of Care Patient Satisfaction;Qualité des soins et satisfaction des patients;A - High;A+ - Critical;SASB;FAUX
+Counterfeit Product Alert Coverage;Couverture des alertes sur les produits contrefaits;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Number of Approved Suppliers with Third-Party GMP Certification;Nombre de fournisseurs approuvés avec certification GMP par un tiers;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Number of counterfeit incidents detected per million units sold;Nombre d'incidents de contrefaçon détectés par million d'unités vendues;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Number of Suppliers with Quality Management System Certification;Nombre de fournisseurs avec certification du système de gestion de la qualité;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Percentage of distribution chain nodes using traceability technology;Pourcentage de nœuds de la chaîne de distribution utilisant la technologie de traçabilité;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Percentage of Suppliers Approved through Inspections or Audits;Pourcentage de fournisseurs approuvés par des inspections ou des audits;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Percentage of suppliers audited annually;Pourcentage de fournisseurs audités annuellement;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Percentage of Suppliers Screened for ESG Issues;Pourcentage de fournisseurs examinés pour des problèmes ESG;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Recalled Counterfeit Product Volume;Volume de produits contrefaits rappelés;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Third-Party Counterfeit Product Detection;Détection de produits contrefaits par des tiers;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Timeliness of Counterfeit Product Alerts;Rapidité des alertes sur les produits contrefaits;Counterfeit Drugs;Médicaments contrefaits;A - High;A+ - Critical;SASB;FAUX
+Average Time to Address Safety Alerts for Affected Products;Temps moyen pour traiter les alertes de sécurité pour les produits affectés;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Frequency of Serious Recall-Related Incidents;Fréquence des incidents graves liés aux rappels;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Number of Unique Medical Product Safety Databases with Listed Products;Nombre de bases de données de sécurité des produits médicaux uniques avec des produits répertoriés;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Ratio of Affected Products to Total Products Manufactured;Ratio de produits affectés par rapport au total des produits fabriqués;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Time to Implement Corrective Actions (Days);Temps pour mettre en œuvre des actions correctives (jours);Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Total Annual Product Recalls;Total des rappels de produits annuels;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Total Number of Enforcement Actions;Nombre total d'actions d'application;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Trend in Reported Fatalities from Medical Equipment;Tendance des décès signalés dus à des équipements médicaux;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Units Recalled per Million Sold;Unités rappelées par million vendu;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+NOx Emissions per Metric Tonne of Electricity Generated;Émissions de NOx par tonne métrique d'électricité générée;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Percentage of SOx Emissions in Urban Areas;Pourcentage des émissions de SOx dans les zones urbaines;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Air Pollutant Emission Intensity;Intensité des émissions de polluants atmosphériques;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Board’s oversight of climate-related risks and opportunities;Surveillance par le conseil des risques et opportunités liés au climat;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Capital Expenditures for Emission Control Technologies;Dépenses d'investissement pour les technologies de contrôle des émissions;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+GHG Emissions Intensity per kWh Delivered;Intensité des émissions de GES par kWh livré;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Percentage grid electricity and percentage renewable;Pourcentage d'électricité du réseau et pourcentage d'énergie renouvelable;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Regulatory Compliance Costs for Air Pollutants;Coûts de conformité réglementaire pour les polluants atmosphériques;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Scope 1 GHG Emissions Reduction Target;Objectif de réduction des émissions de GES de portée 1;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions;Émissions de GES de portée 1, portée 2 et, le cas échéant, portée 3;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Total GHG Emissions from Power Generation;Total des émissions de GES provenant de la production d'électricité;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Total Gross Global Scope 1 Emissions;Total des émissions mondiales brutes de portée 1;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Transmission and Distribution Losses-related GHG Emissions;Émissions de GES liées aux pertes de transmission et de distribution;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Year-over-Year Change in GHG Emissions;Variation des émissions de GES d'une année sur l'autre;Greenhouse Gas Emissions Energy Resource Planning;Émissions de gaz à effet de serre et planification des ressources énergétiques;A - High;A+ - Critical;SASB;FAUX
+Average Cost per Reportable Pipeline Incident;Coût moyen par incident de pipeline déclarable;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Average Pipeline Operator Qualification Score;Score moyen de qualification des opérateurs de pipeline;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Distribution Pipeline Replacement Rate;Taux de remplacement des pipelines de distribution;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+High Consequence Area Safety Score;Score de sécurité des zones à forte conséquence;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Legal Proceedings and Serious Injuries or Fatalities Related to Incidents;Procédures judiciaires et blessures graves ou décès liés aux incidents;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Length of Polyethylene Pipelines in Distribution Network;Longueur des pipelines en polyéthylène dans le réseau de distribution;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Percentage of Unprotected Steel Distribution Pipeline;Pourcentage de pipelines de distribution en acier non protégés;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Pipeline Inspection Frequency;Fréquence d'inspection des pipelines;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Population Affected by Serious Incidents;Population affectée par des incidents graves;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Transmission Pipeline Inspection Method Diversity;Diversité des méthodes d'inspection des pipelines de transmission;Integrity of Gas Delivery Infrastructure;Intégrité de l'infrastructure de livraison de gaz;A - High;A+ - Critical;SASB;FAUX
+Annual False or Inaccurate Reporting Incidents;Incidents de rapports faux ou inexacts par an;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Exposed Population within 5 Kilometers of Waste Management Facilities;Population exposée dans un rayon de 5 kilomètres des installations de gestion des déchets;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Frequency of Permit Acquisition Violations per Year;Fréquence des violations d'acquisition de permis par an;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Monthly Average Number of Continuous Emission Violations;Nombre moyen mensuel de violations continues d'émissions;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Total Number of Waste Management Facilities in Urbanized Areas;Nombre total d'installations de gestion des déchets dans les zones urbanisées;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Access to Clean Water;Accès à l'eau potable;Drinking Water Quality;Qualité de l'eau potable;A - High;A+ - Critical;SASB;FAUX
+Affected Customer Population;Population de clients affectés;Drinking Water Quality;Qualité de l'eau potable;A - High;A+ - Critical;SASB;FAUX
+Hazard-based Contaminant Management Ratio;Ratio de gestion des contaminants basé sur les risques;Drinking Water Quality;Qualité de l'eau potable;A - High;A+ - Critical;SASB;FAUX
+Investment in Emerging Contaminant Research and Development;Investissement dans la recherche et le développement des contaminants émergents;Drinking Water Quality;Qualité de l'eau potable;A - High;A+ - Critical;SASB;FAUX
+Violation Resolution Costs;Coûts de résolution des violations;Drinking Water Quality;Qualité de l'eau potable;A - High;A+ - Critical;SASB;FAUX
+Efficient cookstoves distributed;Cuisinières efficaces distribuées;Lifecycle Emissions Balance;Équilibre des émissions sur le cycle de vie;A - High;A+ - Critical;SASB;FAUX
+Emissions and energy metrics;Émissions et indicateurs énergétiques;Lifecycle Emissions Balance;Équilibre des émissions sur le cycle de vie;A - High;A+ - Critical;SASB;FAUX
+GHG Emissions Intensity of Biofuel Production;Intensité des émissions de GES de la production de biocarburants;Sourcing Environmental Impacts of Feedstock Production;Impacts environnementaux de la production de matières premières;A - High;A+ - Critical;SASB;FAUX
+Percentage of Feedstock Suppliers Meeting Sustainability Criteria;Pourcentage de fournisseurs de matières premières répondant aux critères de durabilité;Sourcing Environmental Impacts of Feedstock Production;Impacts environnementaux de la production de matières premières;A - High;A+ - Critical;SASB;FAUX
+Elimination of human trafficking, slavery, and human rights abuses in supply chain;Élimination de la traite des êtres humains, de l'esclavage et des violations des droits de l'homme dans la chaîne d'approvisionnement;Rights of Indigenous Peoples;Droits des peuples autochtones;A - High;A+ - Critical;SASB;FAUX
+Eradication of forced child labor and modern slavery;Éradication du travail des enfants forcé et de l'esclavage moderne;Rights of Indigenous Peoples;Droits des peuples autochtones;A - High;A+ - Critical;SASB;FAUX
+Fuel Economy Improvement Rate;Taux d'amélioration de l'économie de carburant;Fuel Economy Emissions in Use-phase;Émissions de consommation de carburant en phase d'utilisation;A - High;A+ - Critical;SASB;FAUX
+Airworthiness Directive Frequency Rate;Taux de fréquence des directives de navigabilité;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Counterfeit Parts Detection Rate;Taux de détection des pièces contrefaites;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Product Safety Monetary Losses;Pertes monétaires liées à la sécurité des produits;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Recall Frequency Rate;Taux de fréquence des rappels;Product Safety;Sécurité des produits;A - High;A+ - Critical;SASB;FAUX
+Amount of hazardous waste generated;Quantité de déchets dangereux générés;Hazardous Waste Management;Gestion des déchets dangereux;A - High;A+ - Critical;SASB;FAUX
+Category 1 Purchased Goods Services;Catégorie 1 Biens et services achetés;Hazardous Waste Management;Gestion des déchets dangereux;A - High;A+ - Critical;SASB;FAUX
+Category 2 Capital Expenditures;Catégorie 2 Dépenses d'investissement;Hazardous Waste Management;Gestion des déchets dangereux;A - High;A+ - Critical;SASB;FAUX
+Hazardous Waste Generation Rate;Taux de génération de déchets dangereux;Hazardous Waste Management;Gestion des déchets dangereux;A - High;A+ - Critical;SASB;FAUX
+Number and aggregate quantity of reportable spills;Nombre et quantité totale de déversements signalables;Hazardous Waste Management;Gestion des déchets dangereux;A - High;A+ - Critical;SASB;FAUX
+Anti-Money Laundering Policy Coverage Rate;Taux de couverture de la politique de lutte contre le blanchiment d'argent;Internal Controls on Money Laundering;Contrôles internes sur le blanchiment d'argent;A - High;A+ - Critical;SASB;FAUX
+Money Laundering Legal Proceeding Losses;Pertes liées aux procédures judiciaires pour blanchiment d'argent;Internal Controls on Money Laundering;Contrôles internes sur le blanchiment d'argent;A - High;A+ - Critical;SASB;FAUX
+Data Security Breaches;Violations de la sécurité des données;Data Security;Sécurité des données;A - High;A+ - Critical;SASB;FAUX
+Total NOx Emissions;Émissions totales de NOx;Air Quality;Qualité de l'air;A - High;A+ - Critical;SASB;FAUX
+Accident rate (Overseas);Taux d'accidents (International);Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Accident rate (Total);Taux d'accidents (total);Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Aviation Accident Frequency Rate;Taux de fréquence des accidents d'aviation;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Employee LTIFR;LTIFR des employés;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Governmental Enforcement Actions per Million Flight Hours;Actions d'application gouvernementales par million d'heures de vol;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Number of work-related fatalities for contractors;Nombre de décès liés au travail pour les sous-traitants;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Percentage of safety and health plan approvals;Pourcentage d'approbations des plans de sécurité et de santé;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Safety Risk Mitigation Rate;Taux d'atténuation des risques de sécurité;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX
+Supplier LTIFR;LTIFR des fournisseurs;Accident Safety Management;Gestion de la sécurité des accidents;A - High;A+ - Critical;SASB;FAUX

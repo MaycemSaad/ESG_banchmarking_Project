@@ -1,0 +1,81 @@
+Sustainability Accounting Standard (“SASB”)
+The table below sets out the SASB disclosures for the year ending 31 March 2024 for 3i Group plc (“3i”). We have chosen to adopt a new version of the SASB standard for
+Asset Management & Custody Activities issued in December 2023 that is applicable for accounting periods beginning on or after 1 January 2025.
+Table 1. Sustainability Disclosure Topics & Accounting Metric
+TOPIC CODE INDICATOR DETAILS
+Transparent FN-AC-270a.1 (1) Number and (2) percentage of covered We have no records of investment-related investigations, consumer-initiated
+Information & employees with a record of investment-related complaints or other regulatory proceedings that are pending or threatened
+Fair Advice for investigations, consumer-initiated complaints, against any current employee.
+Customers private civil litigations, or other regulatory
+proceedings Employees may engage in private civil litigation, but we are not aware of any
+proceedings of significance.
+FN-AC-270.2 Total amount of monetary losses as a result of None.
+legal proceedings associated with marketing and
+communication of financial product related
+information to new and returning customers
+FN-AC-270a.3 Description of approach to informing customers 3i does not have ‘retail’ customers. It has shareholders, for whose benefit the
+about products and services Company is managed. We also manage private funds and co-investment
+vehicles, whose investors are professional clients, and various employee
+carried interest vehicles. Please refer to pages 110-113 of our Annual report
+and accounts 2024, available on www.3i.com/investor-relations for a
+discussion of how we engage with our shareholders and fund investors.
+Employee FN-AC-330a.1 Percentage of (1) gender and (2) diversity group We make partial disclosures under this heading due to our small headcount.
+Diversity & representation for (a) executive management, (b) Please refer to the Sustainability Data Appendix available on
+Inclusion non-executive management, (c) professionals, https://www.3i.com/sustainability/ and to pages 53, 54, 118 and 119 of our
+and (d) all other employees Annual report and accounts 2024 available on www.3i.com/investor-relations
+TOPIC | CODE | INDICATOR | DETAILS
+ |  |  | 
+Transparent
+Information &
+Fair Advice for
+Customers | FN-AC-270a.1 | (1) Number and (2) percentage of covered
+employees with a record of investment-related
+investigations, consumer-initiated complaints,
+private civil litigations, or other regulatory
+proceedings | We have no records of investment-related investigations, consumer-initiated
+complaints or other regulatory proceedings that are pending or threatened
+against any current employee.
+Employees may engage in private civil litigation, but we are not aware of any
+proceedings of significance.
+FN-AC-270.2 | Total amount of monetary losses as a result of
+legal proceedings associated with marketing and
+communication of financial product related
+information to new and returning customers | None.
+FN-AC-270a.3 | Description of approach to informing customers
+about products and services | 3i does not have ‘retail’ customers. It has shareholders, for whose benefit the
+Company is managed. We also manage private funds and co-investment
+vehicles, whose investors are professional clients, and various employee
+carried interest vehicles. Please refer to pages 110-113 of our Annual report
+and accounts 2024, available on www.3i.com/investor-relations for a
+discussion of how we engage with our shareholders and fund investors.
+Employee
+Diversity &
+Inclusion | FN-AC-330a.1 | Percentage of (1) gender and (2) diversity group
+representation for (a) executive management, (b)
+non-executive management, (c) professionals,
+and (d) all other employees | We make partial disclosures under this heading due to our small headcount.
+Please refer to the Sustainability Data Appendix available on
+https://www.3i.com/sustainability/ and to pages 53, 54, 118 and 119 of our
+Annual report and accounts 2024 available on www.3i.com/investor-relations
+
+TOPIC CODE INDICATOR DETAILS
+Incorporation of FN-AC-410a.1 Amount of assets under management, by asset Amount of assets under management that employ:
+Environmental, class, that employ (1) integration of
+(1) integration of ESG issues: 100% of total AUM (excluding some small
+Social and environmental, social, and governance (ESG)
+legacy and minority investments), 100% of Private Equity AUM (excluding
+Governance issues, (2) sustainability themed investing and (3)
+some small legacy and minority investments), 100% of Infrastructure
+Factors (ESG) screening
+AUM.
+in Investment
+(2) Sustainability themed investing: none, we do not manage thematic
+Management &
+sustainability assets or funds.
+Advisory
+(3) Screening: 100% of total AUM, 100% of Private Equity AUM; 100% of
+Infrastructure AUM.
+Please refer to pages 42-44 of our Annual report and accounts 2024 available
+on www.3i.com/investor-relations and to our Responsible Investment policy,
+available
+[...]

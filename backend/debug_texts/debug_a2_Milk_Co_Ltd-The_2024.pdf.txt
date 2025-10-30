@@ -1,0 +1,76 @@
+The a2 Milk Company – 2024 SASB Standards 1
+SASB STANDARDS
+Sustainability Accounting Standard Board (“SASB”) Standards aims to identify the sustainability information that is financially
+material to understanding how an organisation creates enterprise value. That information, also identified as ESG (environmental,
+social, and governance) information, is designed for users whose primary objective is to improve economic decisions.
+The a2 Milk Company (a2MC, the Company) does not yet fully align to SASB Standards. The index below is provided as a guide for
+interested stakeholders to locate relevant disclosures from a2MC when referencing the SASB food and beverage – meat, poultry and
+dairy standard.
+All references to ‘Annual Report’ in the table below are to The a2 Milk Company’s 2024 Annual Report.
+SASB Index – Food and beverage – meat, poultry and dairy
+Topic Metric Reference
+Greenhouse Gas Emissions – Gross global Scope 1 emissions Refer to page 38 of Annual Report
+– Discussion of long-term and short-term strategy or for detail on Scope 1, 2 and 3.
+plan to manage Scope 1 emissions, emissions reduction
+targets, and an analysis of performance against those
+targets
+Energy Management – (1) Total energy consumed, Refer to page 38 of Annual Report
+(2) percentage grid electricity, for energy consumption.
+(3) percentage renewable
+Water Management – (1) Total water withdrawn, Refer to page 39 of Annual Report
+(2) total water consumed, percentage of each in regions for water management discussion
+with High or Extremely High Baseline Water Stress and water disclosures related to
+– Description of water management risks and discussion of manufacturing facilities.
+strategies and practices to mitigate those risks a2MC does not currently measure
+– Number of incidents of non-compliance with water water withdrawn, consumed
+quality permits, standards, and regulations in every region or any non-
+compliance. a2MC may consider
+measurement and disclosure
+in the future.
+Land Use & Ecological Impacts – Amount of animal litter and manure generated, a2MC does not own its supplier
+percentage managed according to a nutrient farms and does not currently
+management plan. obtain this level of information.
+– Percentage of pasture and grazing land managed a2MC may consider measurement
+to conservation plan criteria and disclosure in the future.
+– Animal protein production from confined animal
+feeding operations
+Food Safety – Global Food Safety Initiative (GFSI) audit Refer to page 49 of Annual Report
+(1) non-conformance rate and for detail on product quality audits
+(2) associated corrective action rate for and certifications.
+(a) major and (b) minor non-conformances a2MC does not disclose recalls
+– Percentage of supplier facilities certified to a Global or have any markets in which it is
+Food Safety Initiative (GFSI) food safety certification banned.
+program
+– (1) Number of recalls issued and
+(2) total weight of products recalled
+– Discussion of markets that ban imports of the entity’s
+products
+Antibiotic Use in – Percentage of animal production that received a2MC does not own its supplier
+Animal Production (1) medically important antibiotics and farms and does not currently
+(2) not medically important antibiotics, by animal type obtain this level of information.
+a2MC may consider measuring and
+disclose in the future.
+The a2 Milk Company – 2024 SASB Standards 2
+Topic Metric Reference
+Workforce Health & Safety – (1) Total recordable incident rate (TRIR) and Refer to page 27 of Annual Report
+(2) fatality rate (a) direct employees and for detail on health and safety
+(b) contract employees metrics.
+– Description of efforts to assess, monitor, and mitigate Respiratory health disclosure are
+acute and chronic respiratory health conditions not applicable for a2MC.
+Animal Care & Welfare – Percentage of production certified to a third-party Refer to page 40 of Annual Report
+animal welfare standard for detail on animal welfare
+standards.
+Environmental & Social Impacts – Percentage of livestock from suppliers implementing Refer to page 40 of Annual Report
+of Animal Supply Chain conservation plan criteria or the equivalent for detail on animal welfare
+– Percentage of supplier and contract production facilities standards.
+verified to meet animal welfare standards
+Animal Feed and Sourcing – Percentage of animal feed sourced from regions with a2MC does not own its supplier
+High or Extremely High Baseline Water Stress farms and does not currently
+– Percentage of contracts with producers located in obtain this level of information.
+regions with High or Extremely High Baseline Water a2MC may consider measurement
+Stress and disclosure in the future.
+– Discussion of strategy to manage opportunities and risks
+to feed sourcing and livestock supply presented
+by climate change
+
+[...]

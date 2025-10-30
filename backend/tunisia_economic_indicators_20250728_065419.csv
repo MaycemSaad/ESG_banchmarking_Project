@@ -1,0 +1,35 @@
+indicator,year,value,unit,source,description
+Inflation (%),2024,7.20661657168794,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2023,9.32899597507865,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2022,8.30646124447623,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2021,5.706350208307,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2020,5.63415115897625,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2019,6.72007532863799,%,worldbank,"Inflation, consumer prices (annual %)"
+Inflation (%),2018,7.30759176031652,%,worldbank,"Inflation, consumer prices (annual %)"
+PIB (constant USD),2024,48948478709.7934,USD,worldbank,GDP in constant USD
+PIB (constant USD),2023,48296165328.5233,USD,worldbank,GDP in constant USD
+PIB (constant USD),2022,48277261609.9968,USD,worldbank,GDP in constant USD
+PIB (constant USD),2021,47020260421.799,USD,worldbank,GDP in constant USD
+PIB (constant USD),2020,44893939452.6941,USD,worldbank,GDP in constant USD
+PIB (constant USD),2019,49340470115.969,USD,worldbank,GDP in constant USD
+PIB (constant USD),2018,48569264671.6842,USD,worldbank,GDP in constant USD
+RNB (USD courants),2024,52072149801.2873,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2023,46989038258.4066,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2022,43975286763.7582,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2021,45843160788.8016,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2020,41095052621.3235,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2019,40813336000.5153,USD,worldbank,Gross National Income in current USD
+RNB (USD courants),2018,41650260477.7648,USD,worldbank,Gross National Income in current USD
+Population totale,2024,12277109.0,habitants,worldbank,Total population
+Population totale,2023,12200431.0,habitants,worldbank,Total population
+Population totale,2022,12119334.0,habitants,worldbank,Total population
+Population totale,2021,12048622.0,habitants,worldbank,Total population
+Population totale,2020,11974057.0,habitants,worldbank,Total population
+Population totale,2019,11875081.0,habitants,worldbank,Total population
+Population totale,2018,11765514.0,habitants,worldbank,Total population
+Taux d'épargne brute,2023,5.06353347070881,%,worldbank,Gross savings (% of GNI)
+Taux d'épargne brute,2022,6.89607360346531,%,worldbank,Gross savings (% of GNI)
+Taux d'épargne brute,2021,9.03780859416581,%,worldbank,Gross savings (% of GNI)
+Taux d'épargne brute,2020,5.61970461283141,%,worldbank,Gross savings (% of GNI)
+Taux d'épargne brute,2019,10.2514531426079,%,worldbank,Gross savings (% of GNI)
+Taux d'épargne brute,2018,10.6815524034313,%,worldbank,Gross savings (% of GNI)

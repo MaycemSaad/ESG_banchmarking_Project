@@ -1,0 +1,9 @@
+2025-07-10 12:37:02,385 - INFO - === ESG KPI Extraction Started ===
+2025-07-10 12:37:02,385 - INFO - Base directory: Agentic AI for Economic & ESG Data Automation
+2025-07-10 12:37:02,386 - INFO - Reports directory: Agentic AI for Economic & ESG Data Automation\reports
+2025-07-10 12:37:02,386 - ERROR - Reports directory not found: Agentic AI for Economic & ESG Data Automation\reports
+2025-07-10 12:37:02,386 - INFO - Please ensure the directory structure matches:
+2025-07-10 12:37:02,386 - INFO - Agentic AI for Economic & ESG Data Automation/
+2025-07-10 12:37:02,387 - INFO -   └── reports/
+2025-07-10 12:37:02,389 - INFO -       └── [Sector folders]/
+2025-07-10 12:37:02,389 - INFO -           └── PDF files

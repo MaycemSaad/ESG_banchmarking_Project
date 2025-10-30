@@ -1,0 +1,67 @@
+ABN AMRO Bank N.V.
+SASB Content Index 2021 ‐ Commercial Banking Standard
+Disclosure Topic Accounting Metric Code Disclosure reference
+(1) number of data breaches, (2) percentage involving FN‐CB‐230a.1 Data breach figures used as input for our Integrated Profit & Loss Statement in Impact Report 2021
+personally identifiable information(PII), (3) number of Number of total client complaints relating to data privacy breaches reported:
+account holders affected ABN AMRO Integrated Annual Report 2021 ‐ Value creation model
+Data security
+2,3) Omitted
+Description of approach of identifying and adressing data FN‐CF‐230a.2 ABN AMRO Integrated Annual Report 2021 ‐ Performance chapter (section Resilience to security threats)
+security risks ABN AMRO Integrated Annual Report 2021 ‐ Operational (non‐financial) risk management (section Information security)
+ABN AMRO Human rights report 2020 ‐ Our policy framework on personal privacy, financial distress and discrimination in banking services
+1) Number and (2) amount of loans FN‐CB‐240a.1 The metrics of Financial Inclusion and Capacity Building were omitted based on the lack of applicability. For a qualitative description of our efforts
+outstanding qualified to programs designed to regarding this topic, please refer to our Human rights report 2020 (section: Our policy framework on preventing discrimination in banking services) and
+promote small business and community our Social Impact Report 2021
+development
+(1) Number and (2) amount of past due and FN‐CB‐240a.2
+nonaccrual loans qualified to programs
+Financial Inclusion and
+designed to promote small business and
+Capacity Building
+community development
+Number of no‐cost retail checking accounts FN‐CB‐240a.3
+provided to previously unbanked or
+underbanked customers
+Number of participants in financial literacy initiatives for FN‐CB‐240a.4
+unbanked, underbanked, or underdeserved customers
+Commercial and industrial credit exposure by industry FN‐CB‐410a.1 ABN AMRO Integrated Annual Report 2021 ‐ Additional risk, funding & capital disclosures (section Total assets overview)
+Note: reported by applying Industry Classification Benchmark (IBC) and the bank's internal industry classification.
+Incorporation of ESG
+Description of approach to incorporation of environmental, FN‐CB‐410a.2 ABN AMRO Integrated Annual Report 2021 ‐ Sustainability risk management (section Sustainability risk policy framework)
+factors in Credit analysis
+social, and goverance (ESG) factors in credit analysis
+https://www.abnamro.com/en/about‐abn‐amro/product/sustainability‐policy
+Total amount of monetary losses as a result of FN‐CB‐510a.1 ABN AMRO Integrated Annual Report 2021 ‐ Operational (non‐financial) risk review
+legal proceedings associated with fraud, ABN AMRO Integrated Annual Report 2021 ‐ Annual Financial Statements Note 30 & Note 35
+insider trading, anti‐trust, anti‐competitive
+behavior, market manipulation, malpractice, or
+other related financial industry laws or
+regulations
+Business ethics
+Description of whistleblower policies and procedures FN‐CB‐510a.2 ABN AMRO Integrated Annual Report 2021 ‐ Performance ‐ Future‐proof bank (section Due diligence)
+ABN AMRO Integrated Annual Report 2021 ‐ Report of the Supervisory Board
+ABN AMRO Integrated Annual Report 2021 ‐ Codes and regulation (section culture and long‐term value creation)
+ABN AMRO Human Rights Report 2020 ‐ Policy ecosystem
+ABN AMRO Human Rights Report 2020 ‐ Remedy
+https://www.abnamro.com/en/contact/product/whistleblowers‐reporting‐procedure
+Global Systemically Important Bank (G‐SIB) score, by FN‐CB‐550a.1 Not applicable
+category
+Systemic Risk Description of approach to incorporation of results of FN‐CB‐550a.2 ABN AMRO Integrated Annual Report 2021 ‐ Risk approach (Section: Stress testing and scenario analysis)
+Management mandatory and voluntary stress tests into capital adequacy ABN AMRO Integrated Annual Report 2021 ‐ Capital management
+planning, long‐term corporate strategy, and other business
+activities
+Activity Metric Code Disclosure reference
+(1) Number and (2) value of checking and savings accounts FN‐CB‐000.A Omitted: Currently not disclosed
+by segment: (a) personal and (b) small business
+(1) Number and (2) value of loans by segment: (a) personal, FN‐CB‐000.B Omitted: Currently not disclosed
+(b)small business, and (c) corporate
+Disclosure Topic | Accounting Metric | Code | Disclosure reference
+Data security | (1) number of data breaches, (2) percentage involving
+personally identifiable information(PII), (3) number of
+account holders affected | FN‐CB‐230a.1 | Data breach figures used as input for our Integrated Profit & Loss Statement in Impact Report 2021
+Number of total client complaints relating to data privacy breaches reported:
+ABN AMRO Integrated Annual Report 2021 ‐ Value creation model
+2,3) Omitted
+Description of approach of identifying and adressing data
+security risks | FN‐CF‐230a.2 | ABN AMRO Integrated Annual Report 2021 ‐ Performance chapter (section Resilience to security thre
+[...]
